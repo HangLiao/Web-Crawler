@@ -1,3 +1,3 @@
-A simple Web Crawler that allows one to fetch info.
+A simple Web Crawler. 
 
-Build using Python 3.6 with module Requests, BS4.
+Build using Python 3.6 with Requests, BS4.
